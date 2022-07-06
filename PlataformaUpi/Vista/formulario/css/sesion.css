@@ -1,0 +1,142 @@
+body{
+
+
+}
+
+
+
+.login{
+    background-image: url("../img/FONDO_COMPLETO_LOGIN_SIN_LOGOS.jpg");
+    
+    width:100% ;
+    height:1025px;
+}
+
+
+.form{
+    margin-top: 10%;
+    margin-left: 900px;
+    width:450px ;
+    height:500px ;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.olvide{
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 565px;
+    margin-left:170px ;
+    font-size: 20px;
+}
+
+.olvide1{
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+    color:  rgb( 252, 115, 35);
+    margin-top: 595px;
+    margin-left:120px ;
+    font-size: 20px;
+}
+
+.formulario{
+    display: grid;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    padding-top:20px ;
+    padding-left:50px ;
+    padding-right:0px ;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+    box-shadow: -15px 15px 30px -1px rgb(200, 200, 200);
+}
+
+.titulo{
+    
+    margin-top: 20%;
+    margin-left: 100px;
+    margin-right: 800px;
+    font-size: 40px;
+    font-weight: 1200;
+    position: absolute;
+}
+.sub-titulo{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 20px;
+    padding-top:20px ;
+    padding-bottom: 40px;
+    font-size: 35px;
+    font-weight: 1200;
+    background:  rgb( 252, 115, 35);
+    color: #fff;
+    text-align: center;
+    border-radius:50px;
+    height: 50px;
+    width: 400px;
+    position: absolute;
+}
+
+.campo-1{
+    margin-top:30px ;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.campo-2{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top:25px ;
+    font-size: 20px;
+}
+
+.input-1{
+    background: rgb(233, 231, 231);
+    font-family: 'Josefin Sans', sans-serif;
+    height:40px ;
+    width:330px ;
+    border-radius: 15px;
+    border:none;
+}
+.input-2{
+    background: rgb(233, 231, 231);
+    font-family: 'Josefin Sans', sans-serif;
+    height:40px ;
+    width:330px  ;
+    border-radius: 15px;
+    border:none;
+}
+
+
+.boton{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    width:200px ;
+    height:50px ;
+    margin-left: 20%;
+    border:none;
+    border-radius: 20px;
+    background:  rgb( 252, 115, 35);
+    color: #fff;
+}
+
+
+.label{
+    margin-bottom: 10px;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #fff;
+}
+
+
+
+.logo{
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 40px;
+    width:330px ;
+    min-height:130px ;
+}

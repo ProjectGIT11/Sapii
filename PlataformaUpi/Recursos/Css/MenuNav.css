@@ -1,0 +1,28 @@
+.display-menu ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+   }
+
+   .display-menu ul li {
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0;
+   }
+
+   .display-menu ul li:hover {
+    background:#499434;
+    color: black;
+   }
+
+
+
+   .display-menu ul ul a {
+    line-height:120%;
+    padding:10px 15px;
+   }
+
+   .display-menu ul li:hover > ul {
+    display:block;
+   }

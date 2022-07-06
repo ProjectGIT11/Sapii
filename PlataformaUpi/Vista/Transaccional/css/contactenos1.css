@@ -1,0 +1,100 @@
+
+
+.fond-contact{
+    width: 100%;
+    height:800px ;
+}
+
+.fond-2{
+    position: absolute;
+    height:600px ;
+    width:700px ;
+
+}
+
+.formulario{
+    position: absolute;
+    margin-top: 0%;
+    padding-left: 80px;
+    padding-right:80px ;
+    height:430px ;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+
+
+
+
+
+
+
+
+.titulo{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10%;
+    margin-left: 11%;
+    font-size: 55px;
+}
+
+.name{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 0px; 
+    width: 120px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}
+
+.mail{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}
+
+.tel{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}
+
+.subtitulo{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10px; 
+    width: 300px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}
+
+.text{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10px; 
+    height: 60px;
+    width: 190px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}
+
+.boton-form{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 40px;
+    margin-top: 15px; 
+    width: 300px;
+    height: 40px;
+    background: rgb(228, 228, 228);
+    border: none;
+    border-radius: 20px;
+}

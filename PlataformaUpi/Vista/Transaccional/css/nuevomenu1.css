@@ -1,0 +1,28 @@
+a:hover{
+    background: rgb( 252, 115, 35);
+
+    padding-left: 5px;
+    padding-right:5px ;
+    padding-bottom: 10px;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+
+  }
+
+
+
+  .nombre_id-perfil{
+    border-bottom: rgb(66, 63, 63) solid 1px; 
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 18px; margin-left: 0px; 
+    font-size: 23px;
+    color: rgb(107, 105, 105);
+    font-weight: 50;
+    margin-bottom: 50px;
+  }
+
+  .texto{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top:30% ;
+  }

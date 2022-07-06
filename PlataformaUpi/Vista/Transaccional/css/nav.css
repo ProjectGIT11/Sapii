@@ -1,0 +1,39 @@
+
+
+
+
+   /* enlaces del menu 
+  a {display:block;color:#23820b;}  COLOR SENNOVA*/
+   
+   /* items del menu desplegable al pasar el ratón */
+   
+
+
+  
+   @media screen and (max-width:600px){
+     
+    .menu-responsivo{
+      display: grid;
+      margin-right: 0%;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+
+    }
+      .logo-responsive{
+        width: 200px;
+        height: 220px;
+        grid-template-columns: 1fr ;
+      }
+
+      li{
+         display:flex;
+         margin-left: -20%;
+         margin: 5px;
+      }
+    .boton{
+      background: rgb(32, 33, 32);
+      color: aliceblue;
+      width:100% ;
+      height:80px ;
+    }
+    }

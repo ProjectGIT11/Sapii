@@ -1,0 +1,9 @@
+.info-adicional{
+    display: flex;
+    margin-top: 250px;
+    background: #ffffff;
+    height: 100px;
+}
+.link{
+    list-style:none;
+}
